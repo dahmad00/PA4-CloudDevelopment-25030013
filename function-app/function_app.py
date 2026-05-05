@@ -13,7 +13,7 @@ async def http_starter(req: func.HttpRequest, client: df.DurableOrchestrationCli
 
 @app.orchestration_trigger(context_name="context")
 def my_orchestrator(context: df.DurableOrchestrationContext):
-    # TODO: Implement the orchestrator
+    # TODO: Implement the orchestrator function
     # 1. Get the input order
     order = context.get_input()
     # 2. Call validate_activity with the order
