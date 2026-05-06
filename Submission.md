@@ -1,8 +1,25 @@
-# Dawood Ahmad
+<div align="center">
 
-# Roll Number: 25-03-0013
+# PA4 Submission: TaskFlow Pipeline
 
-# Programming Assignment 4
+<img alt="GitHub only" src="https://img.shields.io/badge/Submit-GitHub%20URL%20Only-10b981?style=for-the-badge">
+<img alt="Total points" src="https://img.shields.io/badge/Total-100%20points-7c3aed?style=for-the-badge">
+
+</div>
+
+<div style="background:#f5f3ff;color:#111827;border-left:6px solid #6330bc;padding:14px 18px;border-radius:10px;margin:18px 0;">
+Copy this file to <code style="color:#111827;background:#ddd6fe;padding:2px 4px;border-radius:4px;">SUBMISSION.md</code>. Put every screenshot in <code style="color:#111827;background:#ddd6fe;padding:2px 4px;border-radius:4px;">docs/</code>, embed it under the correct task, and write a short description below each image explaining what it proves. The grader should not need any file outside this repository.
+</div>
+
+## Student Information
+
+| Field | Value |
+|---|---|
+| Name | Dawood Ahmad |
+| Roll Number | 2025-03-0013 |
+| GitHub Repository URL | https://github.com/dahmad00/PA4-CloudDevelopment-25030013/ |
+| Resource Group | `rg-sp26-25030013` |
+| Assigned Region | swedencentral |
 
 # PART A
 
